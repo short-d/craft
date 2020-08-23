@@ -45,3 +45,19 @@ For smart hardware ecosystems, engineers frequently have to work with raw UDP, T
 - [ ] Share directories with in the team
 - [ ] Share directories to public
 - [ ] Search public directories
+
+### v3
+
+- [ ] Mock HTTP API
+- [ ] Mock GraphQL API
+- [ ] Mock Web Socket API
+- [ ] Mock gRPC API
+- [ ] Companies maintain their public API directory
+- [ ] Developers purchase quota package for paid APIs 
+- [ ] Send & receive raw UDP packets
+- [ ] Send & receive raw TCP packets
+- [ ] Send & receive bluetooth packets
+- [ ] Export UDP & TCP APIs for version control
+- [ ] Mock UDP API
+- [ ] Mock TCP API
+- [ ] Mock Bluetooth
