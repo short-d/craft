@@ -18,6 +18,10 @@ However, real world software systems often use more than one technology stack to
 
 For smart hardware ecosystems, engineers frequently have to work with raw UDP, TCP, and Bluetooth protocols. Currently, they use Wireshark to analyze RAW network packets.
 
+## Architecture
+
+![Architecture](doc/architecture.png)
+
 ## Roadmap
 
 ### v1
