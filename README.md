@@ -34,10 +34,11 @@ For smart hardware ecosystems, engineers frequently have to work with raw UDP, T
 - [ ] Import REST apis from OpenAPI 3.0 spec
 - [ ] Show GraphQL documentation after user filled in the base URL
 - [ ] Import gRPC apis from .proto file
+- [ ] Attach markdown document to the apis
+- [ ] Export directory so that it can be version controlled
 - [ ] Enable syntax highlighting for JSON payload
 - [ ] Enable syntax highlighting for GraphQL query
 - [ ] Enable syntax highlighting for gRPC request
-- [ ] Export directory so that it can be version controlled
 - [ ] Redesign the UI so that it's clear, convenient, easy to use, and looks good
 
 ### v2
@@ -47,6 +48,7 @@ For smart hardware ecosystems, engineers frequently have to work with raw UDP, T
 - [ ] Generate shareable for a directory or a API
 - [ ] Create teams and add members
 - [ ] Share directories with in the team
+- [ ] Provide web hooks so that devs can do continuous delivery for their directory
 - [ ] Share directories to public
 - [ ] Search public directories
 
