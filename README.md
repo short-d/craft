@@ -27,7 +27,7 @@ For smart hardware ecosystems, engineers frequently have to work with raw UDP, T
 ### v1
 
 - [ ] Send simple REST request to any backend with custom header, method, and body (mininal UI)
-- [ ] Send GraphQL request to any backend with custom query (mininal UI) 
+- [ ] Send GraphQL request to any backend with custom query (mininal UI)
 - [ ] Connect to any Web socket server. Send custom message and receive response from the server (mininal UI)
 - [ ] Send gRPC (H2C/HTTPS) requests to any any backend (mininal UI)
 - [ ] Save & group APIs into services (directories)
@@ -59,7 +59,7 @@ For smart hardware ecosystems, engineers frequently have to work with raw UDP, T
 - [ ] Mock Web Socket API
 - [ ] Mock gRPC API
 - [ ] Companies maintain their public API directory
-- [ ] Developers purchase quota package for paid APIs 
+- [ ] Developers purchase quota package for paid APIs
 - [ ] Send & receive raw UDP packets
 - [ ] Send & receive raw TCP packets
 - [ ] Send & receive bluetooth packets
@@ -67,3 +67,5 @@ For smart hardware ecosystems, engineers frequently have to work with raw UDP, T
 - [ ] Mock UDP API
 - [ ] Mock TCP API
 - [ ] Mock Bluetooth
+- [ ] Pre Request Scripts
+- [ ] Automated Testing
