@@ -67,5 +67,5 @@ For smart hardware ecosystems, engineers frequently have to work with raw UDP, T
 - [ ] Mock UDP API
 - [ ] Mock TCP API
 - [ ] Mock Bluetooth
-- [ ] Pre Request Scripts
-- [ ] Automated Testing
+- [ ] [Pre Request Scripts](https://learning.postman.com/docs/writing-scripts/pre-request-scripts/)
+- [ ] [Automated Testing - Ability to write test suites for API collections](https://www.postman.com/automated-testing/)
